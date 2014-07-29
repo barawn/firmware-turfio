@@ -1,0 +1,17 @@
+# Output products list for <tiolos_icon>
+_xmsgs\pn_parser.xmsgs
+tiolos_icon.asy
+tiolos_icon.constraints\tiolos_icon.ucf
+tiolos_icon.constraints\tiolos_icon.xdc
+tiolos_icon.gise
+tiolos_icon.ngc
+tiolos_icon.sym
+tiolos_icon.ucf
+tiolos_icon.v
+tiolos_icon.veo
+tiolos_icon.xco
+tiolos_icon.xdc
+tiolos_icon.xise
+tiolos_icon_flist.txt
+tiolos_icon_readme.txt
+tiolos_icon_xmdf.tcl

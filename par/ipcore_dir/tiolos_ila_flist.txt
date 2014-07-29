@@ -1,0 +1,18 @@
+# Output products list for <tiolos_ila>
+tiolos_ila.asy
+tiolos_ila.cdc
+tiolos_ila.constraints\tiolos_ila.ucf
+tiolos_ila.constraints\tiolos_ila.xdc
+tiolos_ila.gise
+tiolos_ila.ncf
+tiolos_ila.ngc
+tiolos_ila.sym
+tiolos_ila.ucf
+tiolos_ila.v
+tiolos_ila.veo
+tiolos_ila.xco
+tiolos_ila.xdc
+tiolos_ila.xise
+tiolos_ila_flist.txt
+tiolos_ila_readme.txt
+tiolos_ila_xmdf.tcl
